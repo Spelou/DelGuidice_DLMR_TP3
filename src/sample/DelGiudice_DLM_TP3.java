@@ -17,7 +17,7 @@ public class DelGiudice_DLM_TP3 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello");
-        System.out.println("ok, test");
+        System.out.println("ok, test, romain viens!");
         
     }
     
