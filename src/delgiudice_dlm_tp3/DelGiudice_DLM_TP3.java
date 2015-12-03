@@ -18,6 +18,8 @@ public class DelGiudice_DLM_TP3 {
         // TODO code application logic here
         System.out.println("hello");
         System.out.println("ok");
+        System.out.println("test");
+        System.out.println("test2");
     }
     
 }
